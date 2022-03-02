@@ -1,0 +1,9 @@
+{
+  "user": "minecraft account username",
+  "pass": "minecraft account password",
+  "host": "minecraft server hostname",
+  "port": 25565,
+  "disc": "discord bot token",
+  "channel": "discord log channel id",
+  "message": "message to spam"
+}

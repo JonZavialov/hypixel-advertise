@@ -1,0 +1,23 @@
+{
+  "name": "hypixel-advertise",
+  "version": "1.0.0",
+  "description": "<h1 align=\"center\">SonyTV Hypixel advertiser</h1>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SonyTV-Bryson/hypixel-advertise.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SonyTV-Bryson/hypixel-advertise/issues"
+  },
+  "homepage": "https://github.com/SonyTV-Bryson/hypixel-advertise#readme",
+  "dependencies": {
+    "discord.js": "^12.5.3",
+    "mineflayer": "^3.11.0"
+  }
+}
