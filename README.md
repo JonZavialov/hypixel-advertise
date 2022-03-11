@@ -10,4 +10,4 @@
 
 ## 👨‍💻 Developlment
 
-This project is currently in its earliest stages of development. We plan on expanding on this project throughout the next couple months.
+This project is done.
